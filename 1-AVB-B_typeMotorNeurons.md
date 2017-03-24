@@ -17,6 +17,9 @@ Such property has been observed also within the D-type dorsal and ventral motor 
 
 
 References:
+
 [1] wormwiring, http://wormwiring.org/hermaphrodite/herm.php
+
 [2] wormbrowser, http://browser.openworm.org
+
 [3] Johnston, Natalie R., et al. "Beta cell hubs dictate pancreatic islet responses to glucose." Cell Metabolism 24.3 (2016): 389-401.

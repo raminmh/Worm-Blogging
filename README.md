@@ -1,2 +1,6 @@
 # Worm-Blogging
 Here, I include my thoughts on how does the brain of the worm give rise to remarkable behavioral plasticities.
+
+
+# Discussions on how the worm crwal
+Initially in a series of documents, I will discuss the role of the command-neurons, different types of motor neurons and their connectivity with the body-wall muscle cells. The ultimate goal is to derive a valid assumption on how the crawling happens in C. elegans and accordingly, simulate the response of the worm to a tap or touch stimulus. My justifications will be based on the connectome dataset provided for the adult hermaphrodite by the WormWiring. I will be investigating various neural circuits consisting of command neurons such as AVB and AVA, together with B-type, A-type, D-type and AS motor neurons including their connectivity to the muscles. The first discussion will be on a neural circuit comprised of AVB and B-type motor neurons.  I will then discuss D-type and AS motor neurons within the next discussion. Afterwards, I will include the body-wall muscles into the neural circuit and discuss in details the propagation of an AVB-excitation into the motor neurons and muscle cells. I will finally repeat such analyses with AVA command neuron and A-type motor neurons and explain the neural circuit's architecture. 

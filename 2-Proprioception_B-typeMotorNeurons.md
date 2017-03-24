@@ -23,12 +23,20 @@ One possible way to include proprioception can be the establishment of hypotheti
 
 
 References:
+
 [1] T. Kawano, M.D. Po, S. Gao, G. Leung, W.S. Ryu, M. Zhen, An imbalancing act: gap junctions reduce the backward motor circuit activity to bias C. elegans for forward locomotion, Neuron, 72 (2011), pp. 572–586.
+
 [2] T.G. Brown, The intrinsic factors in the act of progression in the mammal, Proc. R. Soc. Lond. B Biol. Sci., 84 (1911), pp. 308–319.
+
 [3] O.J. Mullins, J.T. Hackett, J.T. Buchanan, W.O. Friesen
 Neuronal control of swimming behavior: comparison of vertebrate and invertebrate model systems, Prog. Neurobiol., 93 (2011), pp. 244–269.
+
 [4] X. Yu, W.O. Friesen, Entrainment of leech swimming activity by the ventral stretch receptor, J. Comp. Physiol. A Neuroethol. Sens. Neural Behav. Physiol., 190 (2004), pp. 939–949.
+
 [5] K.G. Pearson, Generating the walking gait: role of sensory feedback, Prog. Brain Res., 143 (2004), pp. 123–129.
+
 [6] J.G. White, E. Southgate, J.N. Thomson, S. Brenner, The structure of the nervous system of the nematode Caenorhabditis elegans, Philos. Trans. R. Soc. Lond. B Biol. Sci., 314 (1986), pp. 1–340.
+
 [7] J.H. Boyle, S. Berri, N. Cohen, Gait modulation in C. elegans: An integrated neuromechanical model, Front. Comput. Neurosci., 6 (2012), p. 10
+
 [8] Wen, Quan, Michelle D. Po, Elizabeth Hulme, Sway Chen, Xinyu Liu, Sen Wai Kwok, Marc Gershow et al. "Proprioceptive coupling within motor neurons drives C. elegans forward locomotion." Neuron 76, no. 4 (2012): 750-761.

@@ -1,5 +1,5 @@
 # Worm-Blogging
-Here, I include my thoughts on how does the brain of the worm give rise to remarkable behavioral plasticities.
+Here, I include my thoughts on how the brain of the worm gives rise to remarkable behavioral plasticities.
 
 
 # Discussions on how the worm crawl
